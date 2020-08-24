@@ -1,3 +1,1 @@
-# git_test
-
-Readme file test!
+This is my project
